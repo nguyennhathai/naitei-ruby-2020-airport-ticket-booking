@@ -2,7 +2,6 @@
 
 .section {
   position: relative;
-  height: 200vh;
   .section-center {
     position: absolute;
     top: 50%;
@@ -44,3 +43,11 @@
     color: $gray-lighter;
   }
 }
+
+.info {
+  margin-block: 20px;
+  }
+
+.container > form:nth-child(1) {
+  padding: 5px 0 10px 0;
+  }

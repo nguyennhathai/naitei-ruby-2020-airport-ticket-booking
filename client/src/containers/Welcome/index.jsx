@@ -20,7 +20,7 @@ function Welcome() {
                 </div>
               </Col>
               <Col md={{ size: 6, pull: 7 }}>
-                <RouteSelection />
+                <RouteSelection/>
               </Col>
             </Row>
           </Container>
